@@ -20,7 +20,7 @@ let dummyTodos = [
 
     },
     {
-        account:{
+         account:{
             idx: '1',
             content: 'Understand Static Todo App',
             marked: false,          
